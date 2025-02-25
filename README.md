@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains my completed assessment for the Fetch Rewards Data Engineering exercise. The goal was to review unstructured JSON data, create a structured relational data model, write SQL queries to answer business questions, evaluate data quality issues, and communicate findings effectively to stakeholders.
+This repository contains the completed Fetch Rewards Data Engineering assessment. The exercise involved structuring unstructured JSON data into a relational model, writing SQL queries to answer business questions, identifying data quality issues, and effectively communicating findings to stakeholders.
 
 ## Data Modeling
 
