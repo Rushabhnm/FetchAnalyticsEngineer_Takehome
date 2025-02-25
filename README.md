@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the completed Fetch Rewards Data Engineering assessment. The exercise involved structuring unstructured JSON data into a relational model, writing SQL queries to answer business questions, identifying data quality issues, and effectively communicating findings to stakeholders.
+This repository contains the completed Fetch Rewards Analytics Engineering assessment. The exercise involved structuring unstructured JSON data into a relational model, writing SQL queries to answer business questions, identifying data quality issues, and effectively communicating findings to stakeholders.
 
 ## Data Modeling
 
