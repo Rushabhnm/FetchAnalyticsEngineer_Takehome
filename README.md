@@ -22,4 +22,4 @@ The repository is organized as follows:
   - `DataQualityIssue.ipynb`: Queries and analysis identifying data quality issues.
 - `StakeholderEmail.pdf`: Contains message for a business leader, showcasing my data communication skills.
 - `raw_files folder`: Contains the initially shared JSON structured raw files.
-- `cleansed_file`: Contains the flattened JSON files processed using `FlatteningRawFile.ipynb`.
+- `cleansed_file folder`: Contains the flattened JSON files processed using `FlatteningRawFile.ipynb`.
