@@ -17,9 +17,9 @@ The relational diagram depicting the structured data model has been included in 
 The repository is organized as follows:
 - Relational Diagram: A diagram showcasing the structured relational model is included.
 - scripts Folder:
-  - FlatteningRawFile.ipynb: Contains Python code used for normalizing and structuring the raw JSON data.
-  - StakeholderAnswers.ipynb: SQL queries that answer the stakeholder’s business questions.
-  - DataQualityIssue.ipynb: Queries and analysis identifying data quality issues.
-- StakeholderEmail.pdf: Contains message for a business leader, showcasing my data communication skills.
-- raw_files folder: Contains the initially shared JSON structured raw files.
-- cleansed_file: Contains the flattened JSON files processed using `FlatteningRawFile.ipynb`.
+  - `FlatteningRawFile.ipynb`: Contains Python code used for normalizing and structuring the raw JSON data.
+  - `StakeholderAnswers.ipynb`: SQL queries that answer the stakeholder’s business questions.
+  - `DataQualityIssue.ipynb`: Queries and analysis identifying data quality issues.
+- `StakeholderEmail.pdf`: Contains message for a business leader, showcasing my data communication skills.
+- `raw_files folder`: Contains the initially shared JSON structured raw files.
+- `cleansed_file`: Contains the flattened JSON files processed using `FlatteningRawFile.ipynb`.
