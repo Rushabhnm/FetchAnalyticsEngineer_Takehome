@@ -1,3 +1,3 @@
 # FetchAnalyticsEngineer_Takehome
 
-![Pipeline Diagram](RelationalDiagram.png)
+![Fetch Relational Diagram](RelationalDiagram.png)
